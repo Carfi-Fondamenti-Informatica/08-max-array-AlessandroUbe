@@ -11,5 +11,5 @@ float array(float a[], int  d){
             a[i]=a[0];
         }
     }
-    return  a[0];
+    return  a;
 }
